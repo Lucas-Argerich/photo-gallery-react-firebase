@@ -1,0 +1,16 @@
+.photoGallery {
+    margin-top: 92px;
+    display: flex;
+    justify-content: space-around;
+
+    .mainPhotoContainer {
+        width: 720px; //sample
+        height: 405px; //sample
+        background-color: #E0E0E0;
+        border-radius: 20px;
+        box-shadow: 6px 8px 15px #33333310;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
